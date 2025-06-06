@@ -1,6 +1,7 @@
 # Jogo-do-Carrinho
 #Um jogo simples feito para diversão, seu objetivo é pegar 100 legumes sem perder vida, nesse jogo á habilidades especiais que podem te dar vantagens momentâneas
 
+
 let trator;
 let vegetais = [];
 let pedras = [];
